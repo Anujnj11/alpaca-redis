@@ -1,7 +1,7 @@
 // const WebSocket = require('ws');
 
-// const API_KEY_ID = 'AKB3TN9PPXZC2F1PIAD6';
-// const API_SECRET_KEY = 'nmsgmIEHiLxhSqmdyQX6CTPmKquiGPL8ydJntTDb';
+// const API_KEY_ID = '';
+// const API_SECRET_KEY = '';
 
 // const WEBSOCKET_URL = 'wss://stream.data.alpaca.markets/v2/iex';
 
